@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: pn7150-reader
+Version: 0.1
+Summary: A package to read from and write to NFC tags using the PN7150/PN7120 NFC modules.
+Home-page: http://github.com/yourusername/pn7150_reader
+Author: Your Name
+Author-email: your.email@example.com
+Keywords: NFC PN7150 PN7120 reader writer
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9

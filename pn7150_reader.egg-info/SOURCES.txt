@@ -1,0 +1,7 @@
+setup.py
+pn7150/__init__.py
+pn7150/reader.py
+pn7150_reader.egg-info/PKG-INFO
+pn7150_reader.egg-info/SOURCES.txt
+pn7150_reader.egg-info/dependency_links.txt
+pn7150_reader.egg-info/top_level.txt
